@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PullDownImage</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_settings">Code</string>
+    <string name="action_normal">Normal</string>
+    <string name="action_parallax">Parallax</string>
+    <string name="action_show_head">Show Head</string>
+    <string name="action_hide_head">Hide Head</string>
+    <string name="action_disable_zoom">Disable Zoom</string>
+    <string name="action_enable_zoom">Enable Zoom</string>
+</resources>
